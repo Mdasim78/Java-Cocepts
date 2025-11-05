@@ -1,4 +1,4 @@
-package javaAdvanced;
+package lambdaExpressionAndMethodRefercence;
 
 import java.util.function.Consumer;
 

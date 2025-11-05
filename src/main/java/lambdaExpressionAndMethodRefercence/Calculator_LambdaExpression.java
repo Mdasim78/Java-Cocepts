@@ -1,4 +1,4 @@
-package javaAdvanced;
+package lambdaExpressionAndMethodRefercence;
 
 /**
  * 
