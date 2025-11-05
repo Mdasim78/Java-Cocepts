@@ -52,7 +52,7 @@ public class HelloWorldAnonymousClasses {
         
         HelloWorld frenchGreeting = new HelloWorld() {			//Anonymous class which implements HelloWorld interface and instantiate object using parent class/interface reference
             String name = "tout le monde";
-            public void greet() {
+             public void greet() {
                 greetSomeone("tout le monde");
             }
             public void greetSomeone(String someone) {
